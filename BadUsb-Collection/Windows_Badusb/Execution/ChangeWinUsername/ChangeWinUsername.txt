@@ -18,7 +18,7 @@ STRING $User = ([Environment]::UserName)
 DELAY 300
 ENTER
 DELAY 500
-STRING Rename-LocalUser -Name $User -NewName "New Name"
+STRING Rename-LocalUser -Name $User -NewName "ALC4S3C"
 DELAY 300
 ENTER
 DELAY 500
